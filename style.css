@@ -1,0 +1,105 @@
+*
+{
+  background-color:black;
+}
+#heading1
+{
+  color:white;
+  font-size:30px;
+  text-align: center;
+}
+#start
+{
+  color:white;
+  background-color:red;
+
+}
+#next
+{
+  color:white;
+  background-color:red;
+}
+#id1
+{
+  color:black;
+  background-color:pink;
+}
+.c1 {
+      display: flex;
+      align-items: center;
+    }
+
+    .search {
+          margin-left: 200px;
+
+          width: 300px;
+          color:white;/* Adjust the width as needed */
+        }
+
+        .search input[type="text"] {
+          width: 100%;
+          padding: 5px;
+          color:white;
+        }
+        #signin
+        {
+          background-color:red;
+          color:white;
+
+          margin-left:650px;
+          width:150px;
+          heigth:50px;
+          padding:5px;
+          font-size:15px;
+
+        }
+#kidprofile
+{
+  color:white;
+  font-size:40px;
+}#kidp1
+{
+  color:white;
+  font-size:30px;
+}
+#horizontal_line
+{
+  height:5px;
+  background-color:grey;
+  color:grey;
+}
+.set
+{
+  overflow:auto;
+}
+.image
+{
+  float:left;
+  margin-right:50px;
+}
+#f1
+{
+  color:white;
+}
+.list
+{
+color:white;
+list-style-type: none;
+
+}
+.list li
+{
+  margin-bottom:10px;
+}
+#f3
+{
+  color:white;
+  font-size:20px;
+}
+imput[type="text"]
+{
+  color:white;
+  background-color:grey;
+  width:15px;
+  height:15px;
+}
